@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "murmur": {
+      "type": "http",
+      "url": "https://murmur.shawbb.cn/mcp"
+    }
+  }
+}
