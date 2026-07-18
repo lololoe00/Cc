@@ -18,9 +18,9 @@ XHS_HEADERS = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
 }
 
-THUMB_WIDTH = 320
-THUMB_QUALITY = 45
-MAX_THUMBS = 6
+THUMB_WIDTH = 640
+THUMB_QUALITY = 55
+MAX_THUMBS = 9
 
 
 async def img_proxy(request):
